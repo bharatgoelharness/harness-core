@@ -19,7 +19,7 @@ debacl==1.1
 decorator==4.3.0
 docutils==0.14
 entrypoints==0.2.3
-enum34==1.1.6
+enum34==1.1.10
 funcsigs==1.0.2
 functools32==3.2.3.post2
 futures==3.2.0
