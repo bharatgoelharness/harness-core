@@ -14,6 +14,6 @@ azure-identity
 azure-mgmt-resourcegraph
 azure-monitor-query
 azure-mgmt-resource
-bigquery-schema-generator==1.5
+bigquery-schema-generator==1.6.1
 requests
 azure-mgmt-compute
