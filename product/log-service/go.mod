@@ -15,7 +15,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.1.2
-	github.com/harness/harness-core v0.0.0-20230630234258-c5cacffec07e
+	github.com/harness/harness-core v0.0.0-20240115204420-b7aeace5f25b
 	github.com/harness/harness-core/commons/go/lib v0.0.0-20230704115211-8b21b2758330
 	github.com/joho/godotenv v1.3.0
 	github.com/kelseyhightower/envconfig v1.4.0
