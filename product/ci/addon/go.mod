@@ -28,7 +28,7 @@ require (
 	github.com/gostaticanalysis/analysisutil v0.0.3 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.1
 	github.com/harness/harness-core v0.0.0-20230630234258-c5cacffec07e
-	github.com/harness/harness-core/commons/go/lib v0.0.0-20230704115211-8b21b2758330
+	github.com/harness/harness-core/commons/go/lib b7aeace5f25b
 	github.com/harness/harness-core/product/ci/engine v0.0.0-20220526003445-374c61227e45
 	github.com/harness/ti-client v0.0.0-20230827043740-d394b7ccaa1a
 	github.com/hashicorp/go-retryablehttp v0.6.6 // indirect

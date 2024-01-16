@@ -15,7 +15,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.1
 	github.com/harness/harness-core v0.0.0-20230207125731-25cf0db6b130 // indirect
-	github.com/harness/harness-core/commons/go/lib v0.0.0-20220222141117-7659b7eca599
+	github.com/harness/harness-core/commons/go/lib b7aeace5f25b
 	github.com/mattn/go-zglob v0.0.4 // indirect
 	github.com/stretchr/testify v1.8.1
 	github.com/wings-software/autogen-go v1.0.0 // indirect
